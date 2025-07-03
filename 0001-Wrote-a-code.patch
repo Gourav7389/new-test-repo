@@ -1,0 +1,25 @@
+From 4a817c6dddde0a820ba47727a19b7cb4041da61d Mon Sep 17 00:00:00 2001
+From: Gourav Singh <gourav.singh.ext@siemens.com>
+Date: Thu, 3 Jul 2025 14:32:29 +0530
+Subject: [PATCH] Wrote a code
+
+print code in main function
+
+Signed-off-by: Gourav Singh <gourav.singh.ext@siemens.com>
+---
+ new.c | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+diff --git a/new.c b/new.c
+index e69de29..bff0ee4 100644
+--- a/new.c
++++ b/new.c
+@@ -0,0 +1,5 @@
++#include<stdio.h>
++int main()
++{
++	printf("Hello\n");
++}
+-- 
+2.39.5
+
